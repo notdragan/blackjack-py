@@ -1,5 +1,4 @@
 from copy import deepcopy
-from multiprocessing.dummy import JoinableQueue
 import pyxel, random
 
 wnd = {"largeur":128, "hauteur":128, "titre":"Blackjack"}
